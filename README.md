@@ -7,7 +7,7 @@
 
 <h2>Files in the Repository</h2>
 <ul>
-  <li><code>Data_Cleaning_Statistical_and_Descriptive_Analysis.R</code>: R script for data cleaning and exploratory data analysis (EDA).</li>
+  <li><code>Data_Preprocessing_and_Descriptive_Analysis.R</code>: R script for data cleaning and exploratory data analysis (EDA).</li>
   <li><code>Final_Project_Modelling.ipynb</code>: Python notebook for predictive modeling using machine learning algorithms.</li>
   <li><code>Final_Project_Modelling.html</code>: HTML export of the Python notebook providing an overview of the project.</li>
   <li><code>READ_ME.rtf</code>: Instructions for running the project files.</li>
@@ -16,7 +16,7 @@
 <h2>Steps to Execute the Project</h2>
 <ol>
   <li>Download the dataset from the <a href="https://huggingface.co/datasets/FredZhang7/malicious-website-features-2.4M" target="_blank">Hugging Face Dataset Page</a>.</li>
-  <li>Open the R script <code>Data_Cleaning_Statistical_and_Descriptive_Analysis.R</code> in RStudio along with the dataset file and execute the script to clean the data and perform EDA.</li>
+  <li>Open the R script <code>Data_Preprocessing_and_Descriptive_Analysis.R</code> in RStudio along with the dataset file and execute the script to clean the data and perform EDA.</li>
   <li>The cleaned dataset <code>phishing_features_cleaned_data.csv</code> will be automatically generated.</li>
   <li>Open the Python notebook <code>Final_Project_Modelling.ipynb</code> in Jupyter Notebook or any compatible platform along with the cleaned dataset, and execute the notebook to perform predictive modeling.</li>
   <li>For an overview, refer to the HTML file <code>Final_Project_Modelling.html</code>.</li>
