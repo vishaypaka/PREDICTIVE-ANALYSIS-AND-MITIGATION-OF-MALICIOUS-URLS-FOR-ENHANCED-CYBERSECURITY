@@ -50,3 +50,5 @@
 </ul>
 
 <p>This project demonstrates the integration of data analysis and predictive modeling to address cybersecurity challenges by detecting phishing websites effectively.</p>
+
+<p>For a detailed explanation, visit the <a href="https://mason.gmu.edu/~vpaka2/index.html">project website</a>.</p>
